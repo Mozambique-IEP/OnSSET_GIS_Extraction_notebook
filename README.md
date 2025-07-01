@@ -1,7 +1,5 @@
 # OnSSET GIS extraction
 
-**Note** this notebook is still being tested
-
 Jupyter notebook facilitated for extracting GIS data and generating the input file necessary for OnSSET. The notebook can be utilized when generating an OnSSET input file from scratch or when the user wants to change one specific dataset in an existing OnSSET-input file. The mandatory datasets are \n:
 * Administrative boundaries
 * Land Cover
