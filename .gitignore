@@ -8,3 +8,6 @@
 *.qpj
 *.xml
 *.csv
+.ipynb_checkpoints/csv_file_preparation_bulk_code-checkpoint.ipynb
+.ipynb_checkpoints/csv_file_preparation_stepBystep_code-checkpoint.ipynb
+.ipynb_checkpoints/funcs-checkpoint.ipynb
